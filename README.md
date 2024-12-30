@@ -2,7 +2,7 @@
 
 
 
-**File:** [`Predictive Diabetes Analysis.ipynb`](./Predictive_Diabetes_Analysis.ipynb)
+**File:** ['Predictive Diabetes analysis.ipynb']
 
 #### Description:
 
