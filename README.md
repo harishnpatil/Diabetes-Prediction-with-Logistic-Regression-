@@ -2,7 +2,7 @@
 
 
 
-**File:** ['Predictive Diabetes analysis.ipynb']
+**File:** ['https://github.com/harishnpatil/Diabetes-Prediction-with-Logistic-Regression-/blob/main/Predictive%20Diabetes%20analysis.ipynb']
 
 #### Description:
 
